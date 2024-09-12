@@ -10,6 +10,9 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
+            // primera version
+            Console.WriteLine("Hello world!");
+
         }
     }
 }

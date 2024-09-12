@@ -13,8 +13,6 @@ namespace GitHub
             // primera version
             Console.WriteLine("Hello world!");
 
-            // version 1.1
-            Console.WriteLine("Hello Github!");
         }
     }
 }
